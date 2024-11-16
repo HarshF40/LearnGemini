@@ -133,7 +133,6 @@
 #
 #
 #
-##
 #
 #
 #
@@ -144,7 +143,8 @@
 #
 #
 #
-
+#
+#
 from dotenv import load_dotenv
 from google.generativeai import embedding
 load_dotenv()
